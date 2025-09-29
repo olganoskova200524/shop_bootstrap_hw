@@ -2,8 +2,10 @@
 .idea/
 .vscode/
 venv/
+.venv/
 env/
 __pycache__/
 *.pyc
 *.sqlite
 *.db
+.venv/
